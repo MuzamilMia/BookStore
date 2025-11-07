@@ -81,5 +81,5 @@ MIT License
 MIT License
 
 
-![ERD Diagram](images/ERD .Net.PNG)
+![ERD Diagram Image](ERD .Net.PNG)
 
