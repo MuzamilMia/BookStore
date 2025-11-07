@@ -81,5 +81,5 @@ MIT License
 MIT License
 
 
----
-![Alt text](C:\Users\Muzamil Mia\Desktop/ERD .Net.PNG)
+---<img src="C:\Users\Muzamil Mia\Desktop/ERD .Net.PNG" alt="Alt text" width="300"/>
+
